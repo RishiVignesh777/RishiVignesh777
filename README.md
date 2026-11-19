@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:0046FF,100:00F5FF&height=200&section=header&text=RishiVignesh777&fontColor=00F5FF&fontSize=46&fontAlignY=38&animation=fadeIn&desc=Developing%20and%20Gaming&descAlignY=58&descSize=18" />
+<img src="assets/banner.svg" width="100%" />
 
 </div>
 
